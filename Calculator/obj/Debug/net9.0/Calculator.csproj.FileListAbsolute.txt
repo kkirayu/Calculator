@@ -1,0 +1,15 @@
+/home/vermouth/RiderProjects/Calculator/Calculator/bin/Debug/net9.0/Calculator
+/home/vermouth/RiderProjects/Calculator/Calculator/bin/Debug/net9.0/Calculator.deps.json
+/home/vermouth/RiderProjects/Calculator/Calculator/bin/Debug/net9.0/Calculator.runtimeconfig.json
+/home/vermouth/RiderProjects/Calculator/Calculator/bin/Debug/net9.0/Calculator.dll
+/home/vermouth/RiderProjects/Calculator/Calculator/bin/Debug/net9.0/Calculator.pdb
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfoInputs.cache
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfo.cs
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/Calculator.csproj.CoreCompileInputs.cache
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/Calculator.sourcelink.json
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/Calculator.dll
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/refint/Calculator.dll
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/Calculator.pdb
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
+/home/vermouth/RiderProjects/Calculator/Calculator/obj/Debug/net9.0/ref/Calculator.dll
