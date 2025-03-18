@@ -9,7 +9,7 @@ class Calculator
         while (lanjutkan)
         {
             Console.Clear();
-            Console.WriteLine("======= KALKULATOR V1 =======");
+            Console.WriteLine("======= KALKULATOR V1.2 =======");
             Console.WriteLine("1. Penambahan");
             Console.WriteLine("2. Pengurangan");
             Console.WriteLine("3. Perkalian");
